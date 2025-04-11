@@ -1,7 +1,7 @@
 # Comupter Architecture  - laboratory classes
 __stage of studies: 1st year, 2nd semester__
 
-Each lab class file contains an implementation of the given task.
+Each lab class file contains an implementation of tasks about the given topic.
 
 * MIPS_cw.1_Madeiski - operations on integers
 * MIPS_cw.2_Madeiski - operations on characters
