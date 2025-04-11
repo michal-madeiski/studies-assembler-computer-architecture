@@ -1,5 +1,5 @@
 # Comupter Architecture  - laboratory classes
-__stage of studies: year 1 semester 2__
+__stage of studies: 1st year, 2nd semester__
 
 Each lab class file contains an implementation of the given task.
 
